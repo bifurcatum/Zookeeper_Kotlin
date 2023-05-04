@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-While_loops-Balance_checker" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/While loops/Balance checker" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Zookeeper (Kotlin)" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/While loops/Balance checker">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/While loops/Balance checker/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/While loops/Balance checker/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/While loops/Balance checker/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
